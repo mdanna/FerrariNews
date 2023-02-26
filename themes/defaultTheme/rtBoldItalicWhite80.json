@@ -1,0 +1,110 @@
+{
+  "android": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "androidwearos": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "delinkedPltfrms": {
+    "androidwear": [],
+    "desktop": [],
+    "mobile": [],
+    "tablet": [],
+    "watch": []
+  },
+  "desktopweb": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "font_color": "ffffffff",
+  "font_name": "iphoneSystem",
+  "font_size": 80,
+  "ipad": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "iphone": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "kuid": "s69fe146d4344b05acfbadc315fa652e",
+  "spaan": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "spaip": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "spaipad": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "wType": "RichText",
+  "watchos": {
+    "font_name": "System",
+    "font_size": 80,
+    "isForked": false
+  },
+  "windows8": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  },
+  "winphone8": {
+    "font_color": "ffffffff",
+    "font_name": "Ferrari-SansBoldItalic",
+    "font_size": 80,
+    "isForked": true
+  }
+}

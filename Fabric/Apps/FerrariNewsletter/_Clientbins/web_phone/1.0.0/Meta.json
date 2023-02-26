@@ -1,0 +1,8 @@
+{
+  "filename": "FerrariNewslette.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "FerrariNewsletter",
+  "description": "'Binary for FerrariNewslette'",
+  "version": "1.0.0"
+}

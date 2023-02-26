@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0799a06ca444d9cb118531da19a1284",
+    "_src_": "image4.jpg",
+    "_width_": {
+        "type": "string",
+        "value": "200%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "imgBackground",
+    "imagescalemode": 0,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j0443ea9b1744be29693858221f3eab8",
+    "name": "kony.ui.Image2",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "1728dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "2160dp"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "1172dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "1440dp"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "1152dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "1440dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

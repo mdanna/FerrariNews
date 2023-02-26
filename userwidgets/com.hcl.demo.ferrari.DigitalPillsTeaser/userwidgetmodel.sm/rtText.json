@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10856fa5fae46d5a7b505a41e263e49",
+    "_text_": "RichTexthjkg dshjk dsk hjkh dsjkh jkds jkh dskjh kjd jkh dskj kjds kjh jkds hkjh dskj hkjds jk jkdsh jk ",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "rtText",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a17fa8b9e1b649d0a9f862ce6a754339",
+    "linkskin": "s69fe146d4344b05acfbadc315fa652e",
+    "name": "kony.ui.RichText",
+    "parent": "flxText",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}
