@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "70dp"
+        "value": "50dp"
     },
     "_margin_": [
         1,
@@ -23,9 +23,9 @@
     ],
     "_right_": {
         "type": "number",
-        "value": "70"
+        "value": "50"
     },
-    "_skin_": "s99739017cd64f45964359c9531f3821",
+    "_skin_": "sba82df535e44e33bf610615301dd41e",
     "_text_": "FGT Newsletters",
     "_top_": {
         "type": "string",
@@ -61,7 +61,7 @@
     "isvisible": true,
     "kuid": "h9f14b44a7ba477db455a13a3772eb6b",
     "name": "kony.ui.Label",
-    "parent": "SimpleHeader",
+    "parent": "flxHeader",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

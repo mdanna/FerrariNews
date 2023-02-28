@@ -602,6 +602,10 @@ const data = {
     });
     return teasers;
   },
+  
+  getTeaser(id){
+    return data.getTeasers().find((teaser) => teaser.number === id);
+  },
 
   getNewsletter(id) {
     const number = data.newslettercatalogue.numbers.find((n) => n.id === id);

@@ -4,7 +4,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "70dp"
+        "value": "90dp"
     },
     "_left_": {
         "type": "string",
@@ -35,7 +35,9 @@
     },
     "canUpdateUI": true,
     "containerweight": 0,
-    "data": {},
+    "data": {
+        "title": "Ferrari Innovation Newsletter"
+    },
     "id": "headerMain",
     "info": null,
     "iscustomlayout": false,

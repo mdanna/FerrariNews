@@ -47,6 +47,12 @@
             "name": "flxMenuItemController"
         }
     },
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s1c47b2cd7ef43738b9a5b2ac12a8582"
+        }
+    },
+    "disabledSkins": {},
     "enablescrolling": true,
     "id": "flxMenuItem",
     "info": null,

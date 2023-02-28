@@ -39,6 +39,12 @@
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sc15ac4abebc4b8f83589b847de3ad8a"
+        }
+    },
+    "disabledSkins": {},
     "enablescrolling": true,
     "id": "flxBiometricsButton",
     "info": null,

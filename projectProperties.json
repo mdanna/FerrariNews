@@ -255,7 +255,7 @@
     "bgcolorkey": "255,255,255",
     "blockedChatMessages": "false",
     "bluetooth": "false",
-    "build": "release",
+    "build": "debug",
     "buildExclusion": {},
     "buildWarCompatability": "false",
     "build_gradle_attrs_prefix": "",
@@ -737,14 +737,14 @@
     "support32bit": "false",
     "support32bitandwear": "true",
     "support64bitandwear": "false",
-    "supportX86Devices": "false",
+    "supportX86Devices": "true",
     "supportX86Devicesandwear": "false",
     "swiftversionkey": "None",
     "tags": {
         "android": {
             "activity_child_tags": "",
             "activityattrs": "",
-            "andapplicationattrs": "",
+            "andapplicationattrs": "android:usesCleartextTraffic=\"true\"",
             "andapplicationtags": "",
             "andmanifesttags": "",
             "manifest_tag_attrs": ""

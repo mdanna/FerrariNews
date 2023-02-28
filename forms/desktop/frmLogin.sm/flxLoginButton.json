@@ -1,12 +1,16 @@
 {
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
     "_height_": {
         "type": "string",
-        "value": "15%"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "55dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -43,12 +47,17 @@
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s1c47b2cd7ef43738b9a5b2ac12a8582"
+        }
+    },
     "enablescrolling": true,
     "id": "flxLoginButton",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a427589af494442b9f8eea13124e3a69",
+    "kuid": "h5679079b45c4a468c078c709fef28b2",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "flxContent",

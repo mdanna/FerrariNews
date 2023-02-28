@@ -1,9 +1,9 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizBrowser",
     "DNDConfig": null,
-    "_bottom_": {
-        "type": "number",
-        "value": "0"
+    "_height_": {
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -23,7 +23,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "70dp"
+        "value": "0dp"
     },
     "_type_": 3,
     "_width_": {
@@ -54,7 +54,7 @@
     "method": "get",
     "name": "kony.ui.Browser",
     "paddinginpixel": false,
-    "parent": "frmBrowser",
+    "parent": "flxBrowser",
     "pf": "frmBrowser",
     "requesturlconfig": {
         "URL": "",

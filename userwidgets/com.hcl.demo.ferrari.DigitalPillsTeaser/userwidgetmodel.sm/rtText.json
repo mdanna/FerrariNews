@@ -35,6 +35,9 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 1,
+    "desktopweb": {
+        "linkFocusSkin": "s69fe146d4344b05acfbadc315fa652e"
+    },
     "id": "rtText",
     "info": null,
     "iscustomlayout": false,

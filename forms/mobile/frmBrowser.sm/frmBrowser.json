@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "children": [
         "headerBrowser",
-        "browser"
+        "flxBrowser"
     ],
     "containerweight": 100,
     "controllerInfo": {

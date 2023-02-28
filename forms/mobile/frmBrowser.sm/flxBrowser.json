@@ -1,8 +1,8 @@
 {
     "DNDConfig": null,
-    "_height_": {
-        "type": "string",
-        "value": "120dp"
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
     },
     "_left_": {
         "type": "string",
@@ -22,10 +22,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sc52527fc11d42238a54161375d2eedb",
+    "_skin_": "sb40597454b74e069da560c543a4b6ed",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "90dp"
     },
     "_width_": {
         "type": "string",
@@ -35,31 +35,25 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxGroup"
+        "browser"
     ],
     "clipbounds": true,
     "containerweight": 100,
-    "desktopweb": {
-        "psp": {
-            "hoverSkin": "s567a61d552c4977949bd79e7bdd9ff6"
-        }
-    },
     "enablescrolling": true,
-    "id": "SmallTeaser",
+    "id": "flxBrowser",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i6847af5c1394c859a99b87d893cad8c",
+    "kuid": "j87f62f9cbd64eef8264501b2a28ec61",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
-    "pf": "userwidgetmodel",
+    "parent": "frmBrowser",
+    "pf": "frmBrowser",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

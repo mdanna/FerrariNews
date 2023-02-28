@@ -7,7 +7,7 @@
   },
   "androidwearos": {
     "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
+    "font_name": "default",
     "font_size": 80,
     "isForked": true
   },
@@ -19,9 +19,11 @@
     "watch": []
   },
   "desktopweb": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
     "font_name": "Ferrari-SansBoldItalic",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "font_color": "ffffffff",
@@ -41,46 +43,56 @@
   },
   "isDefaultSkin": false,
   "kiosk": {
-    "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
-    "font_size": 80,
+    "font_name": "None",
     "isForked": true
   },
   "kuid": "s69fe146d4344b05acfbadc315fa652e",
   "spaan": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
     "font_name": "Ferrari-SansBoldItalic",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "spaandroidtablet": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
     "font_name": "Ferrari-SansBoldItalic",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "spaip": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
     "font_name": "Ferrari-SansBoldItalic",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "spaipad": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
     "font_name": "Ferrari-SansBoldItalic",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "spawindowstablet": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
+    "font_name": "Helvetica",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "spawinphone8": {
+    "customCSS": "cursor:pointer",
     "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
+    "font_name": "Helvetica",
     "font_size": 80,
+    "isCustomCSSEnabled": false,
     "isForked": true
   },
   "tabrcandroid": {
@@ -97,13 +109,13 @@
   },
   "windows8": {
     "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
+    "font_name": "None",
     "font_size": 80,
     "isForked": true
   },
   "winphone8": {
     "font_color": "ffffffff",
-    "font_name": "Ferrari-SansBoldItalic",
+    "font_name": "None",
     "font_size": 80,
     "isForked": true
   }

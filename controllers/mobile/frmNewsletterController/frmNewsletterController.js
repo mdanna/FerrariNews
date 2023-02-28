@@ -1,18 +1,17 @@
 define({ 
-  automotiveImages: ['imagenewsletter1.png', 'imagenewsletter2.png', 'imagenewsletter3.png'],
-  crossImages: ['imagenewsletter4.png', 'imagenewsletter5.png', 'imagenewsletter6.png'],
-  startupImages: ['imagenewsletter7.png', 'imagenewsletter8.png', 'imagenewsletter9.png'],
+  teaserId: null,
 
   onViewCreated(){
     this.view.init = () => {
       this.view.headerNewsletter.onClickLeft = () => new voltmx.mvc.Navigation('frmMain').navigate();
     };
+    
+    this.view.postShow = ()  => this.view.headerNewsletter.title = `${data.getTeaser(this.navigationContext || this.teaserId).text}`;
   },
 
   onNavigate(teaserId){
     if(teaserId){
-      this.view.headerNewsletter.title = `Nr. ${teaserId}`;
-
+      this.teaserId = teaserId;
       const newsletter = data.getNewsletter(teaserId);
       const automotiveData = newsletter.automotive || [];
       const crossData = newsletter.cross || [];

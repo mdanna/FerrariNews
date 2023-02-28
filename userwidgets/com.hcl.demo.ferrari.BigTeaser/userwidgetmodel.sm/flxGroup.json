@@ -40,6 +40,11 @@
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s5e73bb7bdc94e6d9fc415c79292fc3c"
+        }
+    },
     "enablescrolling": true,
     "id": "flxGroup",
     "info": null,
