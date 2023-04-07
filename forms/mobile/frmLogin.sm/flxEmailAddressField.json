@@ -35,7 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblEmailAddressField"
+        "txtEmail"
     ],
     "clipbounds": true,
     "containerweight": 100,
